@@ -58,3 +58,14 @@ footer {
     0%, 100% { opacity: 1; }
     50% { opacity: 0; }
 }
+
+/* 記事内の画像のスタイル */
+.article-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 1.5em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
