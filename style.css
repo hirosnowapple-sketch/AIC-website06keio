@@ -1,0 +1,47 @@
+body {
+    font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+    line-height: 1.9;
+    color: #6a554c; /* Warmer Brown */
+    background-color: #fdf6f0; /* Peachy Cream Background */
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+    border-radius: 8px;
+}
+header {
+    text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #f4e9e3;
+}
+header h1 {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-weight: normal;
+    font-size: 2.4em;
+    color: #c8a1a1; /* Dusty Pink */
+}
+article {
+    margin-bottom: 40px;
+}
+h2 {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-weight: normal;
+    color: #d1b3b3; /* Lighter Dusty Pink */
+    border-bottom: 1px solid #f4e9e3;
+    padding-bottom: 10px;
+}
+p {
+    text-indent: 1em;
+}
+footer {
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px solid #f4e9e3;
+    color: #b0a09a;
+    font-style: italic;
+}
